@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+#main-image {
+    transition: filter 2s ease-in-out;
+  }
+  
+  .shadow {
+    width: 400px;
+    height: auto;
+  }
+  
+  .shadow-left {
+    transform: translateX(0);
+  }
+  
+  .shadow-right {
+    transform: translateX(0);
+  }
